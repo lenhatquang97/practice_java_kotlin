@@ -34,3 +34,30 @@
     - [x] Remove Duplicates in unsorted linked list (doing)
     - [x] Return Kth to Last: Return the value of the node at the kth to last position in a singly linked list
     - [x] Delete Middle Node: Delete the middle node of a singly linked list, if there are even number of nodes, delete the node after the middle node (doing)
+### Stacks and Queues
+- Theories (use Generics from Java):
+    - Stack: LIFO
+    - Queue: FIFO
+- Exercises:
+    - [ ] Queue via Stacks: Implement a queue using two stacks
+    - [ ] Evaluate RPN
+    - [ ] Longest Valid Parentheses
+### Trees (very large)
+- Theories:
+    - Binary Tree (Types and Traversals)
+    - Binary Search Tree
+    - Tries
+    - Optional but need to know:
+        - AVL Tree
+        - N-ary Trees
+        - Red-Black Tree
+- Exercises:
+    - [ ] Check Balanced
+    - [ ] Validate BST
+    - [ ] Successor
+    - [ ] First Common Ancestor
+### Graphs (very large)
+### Bit manipulation
+### Recursion
+### Dynamic Programming
+### Sorting and Searching
