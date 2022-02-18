@@ -31,6 +31,6 @@
     - **The "Runner" Technique**
     - **Recursion**
 - Exercises:
-    - [] Remove Duplicates in unsorted linked list (doing)
+    - [ ] Remove Duplicates in unsorted linked list (doing)
     - [x] Return Kth to Last: Return the value of the node at the kth to last position in a singly linked list
     - [x] Delete Middle Node: Delete the middle node of a singly linked list, if there are even number of nodes, delete the node after the middle node (doing)
