@@ -1,5 +1,3 @@
-package linked_list;
-
 public class KFromEnd {
     public int returnNthFromEnd(ListNode head, int k) {
         if (head == null) return -1;

@@ -1,5 +1,3 @@
-package linked_list;
-
 public class DeleteMidNode {
     public ListNode deleteMiddleNode(ListNode head){
         if (head == null || head.next == null) return null;
