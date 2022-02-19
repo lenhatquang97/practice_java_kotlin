@@ -5,6 +5,8 @@
 
 - Practice: Cracking the Coding Interview by Gayle Laakmann McDowell.
 
+- With Kotlin: Learn syntax from LeetCode
+
 ### Big-O Notation
 - Revise: Cracking the Coding Interview - Big O
 - Big O in academics:
@@ -39,9 +41,9 @@
     - Stack: LIFO
     - Queue: FIFO
 - Exercises:
-    - [ ] Queue via Stacks: Implement a queue using two stacks
-    - [ ] Evaluate RPN
-    - [ ] Longest Valid Parentheses
+    - [x] Queue via Stacks: Implement a queue using two stacks (**Leetcode**)
+    - [x] Evaluate RPN (**Leetcode**)
+    - [x] Longest Valid Parentheses (**Leetcode**)
 ### Trees (very large)
 - Theories:
     - Binary Tree (Types and Traversals)
@@ -52,10 +54,10 @@
         - N-ary Trees
         - Red-Black Tree
 - Exercises:
-    - [ ] Check Balanced
-    - [ ] Validate BST
-    - [ ] Successor
-    - [ ] First Common Ancestor
+    - [ ] Check Balanced (**Leetcode**)
+    - [ ] Validate BST (**Leetcode**)
+    - [ ] Successor (**Leetcode**)
+    - [ ] First Common Ancestor (**Leetcode**)
 ### Graphs (very large)
 ### Bit manipulation
 ### Recursion
