@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "stacks_and_queues",
         "linked_list",
-        "stacks_and_queues"
+        "trees"
     ]
 }

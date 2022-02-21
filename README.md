@@ -45,19 +45,30 @@
     - [x] Evaluate RPN (**Leetcode**)
     - [x] Longest Valid Parentheses (**Leetcode**)
 ### Trees (very large)
-- Theories:
-    - Binary Tree (Types and Traversals)
+- Terms:
+    - Complete, Full, Perfect, Balanced Binary Tree
+- Data structures:
+    - Binary Tree
     - Binary Search Tree
+    - Heaps (Min-Heaps and Max-Heaps)
     - Tries
     - Optional but need to know:
         - AVL Tree
         - N-ary Trees
         - Red-Black Tree
+- Algorithms:
+    - Traversals:
+        - [x] Preorder: N - L - R
+        - [x] Inorder: L - N - R
+        - [x] Postorder: L - R - N. Note: Observe that Postorder traversal is an inverse Preorder traversal
+    - Breadth-First Search
+    - Least Common Ancestor and Least Common Successor
+    - Create, Read, Edit and Delete A Node
 - Exercises:
-    - [ ] Check Balanced (**Leetcode**)
-    - [ ] Validate BST (**Leetcode**)
-    - [ ] Successor (**Leetcode**)
-    - [ ] First Common Ancestor (**Leetcode**)
+    - BST
+    - Heaps
+    - Tries
+
 ### Graphs (very large)
 ### Bit manipulation
 ### Recursion
