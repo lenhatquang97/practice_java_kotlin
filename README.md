@@ -1,6 +1,7 @@
 # Practice Whiteboard Coding with Java and Kotlin
 
-### Books to practice   
+### Books to practice
+
 - Learn: Data Structures and Algorithms in Java and Algorithms 4th Edition by Sedgewick and Wayne.
 
 - Practice: Cracking the Coding Interview by Gayle Laakmann McDowell.
@@ -57,18 +58,26 @@
         - N-ary Trees
         - Red-Black Tree
 - Algorithms:
-    - Traversals:
-        - [x] Preorder: N - L - R
-        - [x] Inorder: L - N - R
-        - [x] Postorder: L - R - N. Note: Observe that Postorder traversal is an inverse Preorder traversal
-    - Breadth-First Search
-    - Least Common Ancestor and Least Common Successor
-    - Create, Read, Edit and Delete A Node
-- Exercises:
-    - BST
-    - Heaps
-    - Tries
-
+    - CRUD operations
+    - BST: 
+        - Traversals:
+            - [x] Preorder: N - L - R
+            - [x] Inorder: L - N - R
+            - [x] Postorder: L - R - N. **Note: Observe that Postorder traversal is an inverse Preorder traversal**
+            - [x] Breadth-First Search
+        - [x] Seralize and Deserialize a Binary Tree
+        - [ ] Least Common Ancestor
+        - [ ] Create Tree from 2 types of Traversals
+    - Heaps:
+        - [ ] Implement Heaps
+        - [ ] Relative Ranks
+        - [ ] Longest Happy String
+        - [ ] Merge K Sorted Lists
+    - Trie:
+        - [ ] Implement Trie
+        - [ ] Recommendation System
+        - [ ] Replace words
+        - [ ] Camelcase Matching
 ### Graphs (very large)
 ### Bit manipulation
 ### Recursion
