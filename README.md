@@ -74,10 +74,11 @@
         - [ ] Longest Happy String
         - [ ] Merge K Sorted Lists
     - Trie:
-        - [ ] Implement Trie
-        - [ ] Recommendation System
-        - [ ] Replace words
-        - [ ] Camelcase Matching
+        - [x] Implement Trie
+        - [x] Word Break
+        - [x] Recommendation System
+        - [x] Replace words
+        - [x] Camelcase Matching
 ### Graphs (very large)
 ### Bit manipulation
 ### Recursion
